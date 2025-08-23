@@ -222,4 +222,15 @@ GROUP BY 1;
 - **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
+## Technical Skills Demonstrated:
+
+-Advanced SQL queries with window functions, string manipulation, and date operations
+-Data aggregation and ranking using RANK(), COUNT(), and GROUP BY operations
+-Complex string parsing with STRING_TO_ARRAY() and UNNEST() functions
+-Conditional logic implementation using CASE statements and ILIKE operators
+-Date handling and time-based filtering techniques
+
+## Business Impact:
+The analysis provides actionable insights for content strategy, audience targeting, and regional content distribution. Solutions include identifying top-performing countries, longest content durations, seasonal release patterns, and content categorization for quality assessment.
+This project exemplifies data analyst capabilities in transforming raw entertainment data into strategic business intelligence, demonstrating both technical SQL expertise and analytical thinking essential for data-driven decision making in the entertainment industry.
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
